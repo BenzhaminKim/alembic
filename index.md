@@ -7,9 +7,9 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Experienced with designing software architectures and implementing RESTful API; Focused on code efficiency and clean code; Pride in writing testable and maintainable code;"
 ---
 
-<img src="/assets/pic.jpb" alt="Younghwi Kim" style="height: 100px; width:100px;"/>
-Software Engineer
-
+<img src="assets/pic.jpg" alt="Younghwi Kim" style="height: 30%; width:30%;"/>
+- Software Engineer
+- passionate about software development
 
 
 ## Features
