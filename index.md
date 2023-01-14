@@ -1,9 +1,9 @@
 ---
-title: About Alembic
+title: About Younghwi Kim
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
+  ## Younghwi Kim
+  Experienced with designing software architectures and implementing RESTful API; Focused on code efficiency and clean code; Pride in writing testable and maintainable code;
+feature_image: "./assets/pic.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
