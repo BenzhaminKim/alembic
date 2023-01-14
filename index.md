@@ -6,9 +6,6 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Experienced with designing software architectures and implementing RESTful API; Focused on code efficiency and clean code; Pride in writing testable and maintainable code;"
 ---
-# About Younghwi Kim
-
-# Software Engineer
 
 <img src="assets/pic.jpg" alt="Younghwi Kim" style="height: 30%; width:30%;"/>
 
@@ -18,9 +15,10 @@ excerpt: "Experienced with designing software architectures and implementing RES
 
 # **Professional Experience**
 
-**MakinaRocks** Jan 2022 - Current
+**MakinaRocks** 
+<p>Jan 2022 - Current</p>
 
-Software Engineer
+<p>Software Engineer</p>
 
 - Developed RESTful API, designed software architectures and database to implement User Systems, Permission
 Modules, Data ETL Process, and Jupyter As a Service using Kubernetes, Python, Postgres and Docker
@@ -58,7 +56,7 @@ Fullstack Developer
 # **OpenSource Contributions**
 
 **Kubeflow** Mar 2022
-• fixed a bug that made CSRF cookie XSRF-TOKEN error from POST requests in Notebook, Volume, and Tensorboard
+- fixed a bug that made CSRF cookie XSRF-TOKEN error from POST requests in Notebook, Volume, and Tensorboard
 
 # **Projects**
 
