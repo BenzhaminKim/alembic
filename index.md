@@ -15,9 +15,7 @@ excerpt: "Experienced with designing software architectures and implementing RES
 
 # **Professional Experience**
 
-**MakinaRocks** 
-<p>Jan 2022 - Current</p>
-
+**MakinaRocks** &emsp; <small>Jan 2022 - Current</small>
 <p>Software Engineer</p>
 
 - Developed RESTful API, designed software architectures and database to implement User Systems, Permission
@@ -26,36 +24,36 @@ Modules, Data ETL Process, and Jupyter As a Service using Kubernetes, Python, Po
 - Improved developing ML pipeline image environments and reduced time to make image environments by 50%
 - Developed Batch pipeline system, and automated developing the pipeline to deploy ML Models.
 
-**MondrianAI** Jan 2021 - Dec 2021
-Software Engineer
+**MondrianAI** &emsp; <small>Jan 2021 - Dec 2021</small>
+<p>Software Engineer</p>
 
 - Built MLOps system with high availability to create and deploy ML Models using Kubernetes, Kubeflow, Docker, NodeJS, and PostgresSQL
 - Developed RESTfulAPI and monitoring system to track the server and cloud resources
 - Restructured CI/CD environments for testing and deploying using Jenkins
 
-**RBC (Royanl Bank Canada)** Jan 2020 - April 2020
-Software Engineer Intern
+**RBC (Royanl Bank Canada)** &emsp; <small>Jan 2020 - April 2020</small>
+<p>Software Engineer Intern</p>
 
 - Developed Logging as A Service to collect and centralize logs from services using Kubernetes, Python, ElasticSearch,
 Kibana, and S3
 - Coded python decorator to send logs to ElasticSearch and created Kubernetes deployments and services for
 ElasticSearch and Kibana
 
-**Proware** Jun 2019 - Aug 2019
-Backend Developer
+**Proware** &emsp; <small>Jun 2019 - Aug 2019</small>
+<p>Backend Developer</p>
 
 - Developed new features using C#, [ASP.NET](http://asp.net/), and JavaScript in an Agile environment
 - Updated SQL queries for efficiency and changed legacy queries to prevent SQL injection - Developed new. features for a mobile application using C#, Xamarin, and Azure Cloud
 
-**Digital Tech** Mar 2018 - Aug 2018
-Fullstack Developer
+**Digital Tech** &emsp; <small>Mar 2018 - Aug 2018</small>
+<p>Fullstack Developer</p>
 
 - Designed database structure and schemas to implement uploading multiple contents feature
 - Maintained Digital Tech’s website and modified the website to create a mobile-friendly interface - Built new features using JavaScript, jQuery, HTML5, CSS3, and Bootstrap
 
 # **OpenSource Contributions**
 
-**Kubeflow** Mar 2022
+**Kubeflow** &emsp; <small>Mar 2022</small>
 - fixed a bug that made CSRF cookie XSRF-TOKEN error from POST requests in Notebook, Volume, and Tensorboard
 
 # **Projects**
@@ -77,7 +75,4 @@ Python, AngularJS, and docker
 # **Education**
 
 **Software Engineering Technology (Diploma)**
-
-Centennial College, Toronto, ON
-
-Sep 2018 - Dec 2020
+<p>Centennial College, Toronto, ON</p> <small>Sep 2018 - Dec 2020</small>
