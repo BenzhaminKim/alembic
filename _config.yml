@@ -133,16 +133,11 @@ navigation_footer:
 - title: Created by Younghwi Kim
   url: https://github.com/BenzhaminKim
 
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/YounghwiKim
-  LinkedIn: https://www.linkedin.com/in/YounghwiKim
-  GitHub: https://github.com/YounghwiKim
-  link: https://darn.es
-  RSS: /feed.xml
+social_links: # Appears in sidebar. Set th
+  LinkedIn: https://www.linkedin.com/in/younghwi-kim-4a9603194/
+  GitHub: https://github.com/BenzhaminKim
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
   Email: true
 
 # Load custom fonts from fonts.google.com etc
