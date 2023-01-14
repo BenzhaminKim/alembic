@@ -15,8 +15,7 @@ excerpt: "Experienced with designing software architectures and implementing RES
 
 # **Professional Experience**
 
-**MakinaRocks** &emsp; <small>Jan 2022 - Current</small>
-<p>Software Engineer</p>
+**MakinaRocks** &emsp; <small>Software Engineer</small> &emsp; <small>Jan 2022 - Current</small>
 
 - Developed RESTful API, designed software architectures and database to implement User Systems, Permission
 Modules, Data ETL Process, and Jupyter As a Service using Kubernetes, Python, Postgres and Docker
@@ -24,29 +23,27 @@ Modules, Data ETL Process, and Jupyter As a Service using Kubernetes, Python, Po
 - Improved developing ML pipeline image environments and reduced time to make image environments by 50%
 - Developed Batch pipeline system, and automated developing the pipeline to deploy ML Models.
 
-**MondrianAI** &emsp; <small>Jan 2021 - Dec 2021</small>
-<p>Software Engineer</p>
+**MondrianAI** &emsp; <small>Software Engineer</small>
+ &emsp;<small>Jan 2021 - Dec 2021</small>
 
 - Built MLOps system with high availability to create and deploy ML Models using Kubernetes, Kubeflow, Docker, NodeJS, and PostgresSQL
 - Developed RESTfulAPI and monitoring system to track the server and cloud resources
 - Restructured CI/CD environments for testing and deploying using Jenkins
 
-**RBC (Royanl Bank Canada)** &emsp; <small>Jan 2020 - April 2020</small>
-<p>Software Engineer Intern</p>
+**RBC (Royanl Bank Canada)** &emsp; <small>Software Engineer Intern</small> &emsp;<small>Jan 2020 - April 2020</small>
 
 - Developed Logging as A Service to collect and centralize logs from services using Kubernetes, Python, ElasticSearch,
 Kibana, and S3
 - Coded python decorator to send logs to ElasticSearch and created Kubernetes deployments and services for
 ElasticSearch and Kibana
 
-**Proware** &emsp; <small>Jun 2019 - Aug 2019</small>
-<p>Backend Developer</p>
+**Proware** &emsp; <small>Backend Developer</small>
+ &emsp; <small>Jun 2019 - Aug 2019</small>
 
 - Developed new features using C#, [ASP.NET](http://asp.net/), and JavaScript in an Agile environment
 - Updated SQL queries for efficiency and changed legacy queries to prevent SQL injection - Developed new. features for a mobile application using C#, Xamarin, and Azure Cloud
 
-**Digital Tech** &emsp; <small>Mar 2018 - Aug 2018</small>
-<p>Fullstack Developer</p>
+**Digital Tech** &emsp; <small>Fullstack Developer</small> &emsp;<small>Mar 2018 - Aug 2018</small>
 
 - Designed database structure and schemas to implement uploading multiple contents feature
 - Maintained Digital Tech’s website and modified the website to create a mobile-friendly interface - Built new features using JavaScript, jQuery, HTML5, CSS3, and Bootstrap
