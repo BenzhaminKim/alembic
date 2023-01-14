@@ -1,94 +1,85 @@
 ---
-title: About Younghwi Kim
+title: Software Engineer
 feature_text: |
   ## Younghwi Kim
   Experienced with designing software architectures and implementing RESTful API; Focused on code efficiency and clean code; Pride in writing testable and maintainable code;
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Experienced with designing software architectures and implementing RESTful API; Focused on code efficiency and clean code; Pride in writing testable and maintainable code;"
 ---
+# About Younghwi Kim
+
+# Software Engineer
 
 <img src="assets/pic.jpg" alt="Younghwi Kim" style="height: 30%; width:30%;"/>
-- Software Engineer
-- passionate about software development
 
+# Skills
 
-## Features
+**Python, Kubernetes, PostgreSQL, Docker, Kafka, ElasticSearch, FastAPI, Helm, Jenkins, JavaScript(ES6), Event-Driven-Architecture, Micro-Service-Architecture**
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+# **Professional Experience**
 
-## Examples
+**MakinaRocks** Jan 2022 - Current
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+Software Engineer
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+- Developed RESTful API, designed software architectures and database to implement User Systems, Permission
+Modules, Data ETL Process, and Jupyter As a Service using Kubernetes, Python, Postgres and Docker
+- Implemented alarm systems to notify the changes for Kubernetes resources using Kafka
+- Improved developing ML pipeline image environments and reduced time to make image environments by 50%
+- Developed Batch pipeline system, and automated developing the pipeline to deploy ML Models.
 
-## Installation
+**MondrianAI** Jan 2021 - Dec 2021
+Software Engineer
 
-### Quick setup
+- Built MLOps system with high availability to create and deploy ML Models using Kubernetes, Kubeflow, Docker, NodeJS, and PostgresSQL
+- Developed RESTfulAPI and monitoring system to track the server and cloud resources
+- Restructured CI/CD environments for testing and deploying using Jenkins
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+**RBC (Royanl Bank Canada)** Jan 2020 - April 2020
+Software Engineer Intern
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+- Developed Logging as A Service to collect and centralize logs from services using Kubernetes, Python, ElasticSearch,
+Kibana, and S3
+- Coded python decorator to send logs to ElasticSearch and created Kubernetes deployments and services for
+ElasticSearch and Kibana
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+**Proware** Jun 2019 - Aug 2019
+Backend Developer
 
-### As a Jekyll theme
+- Developed new features using C#, [ASP.NET](http://asp.net/), and JavaScript in an Agile environment
+- Updated SQL queries for efficiency and changed legacy queries to prevent SQL injection - Developed new. features for a mobile application using C#, Xamarin, and Azure Cloud
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+**Digital Tech** Mar 2018 - Aug 2018
+Fullstack Developer
 
-### As a GitHub Pages remote theme
+- Designed database structure and schemas to implement uploading multiple contents feature
+- Maintained Digital Tech’s website and modified the website to create a mobile-friendly interface - Built new features using JavaScript, jQuery, HTML5, CSS3, and Bootstrap
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+# **OpenSource Contributions**
 
-### As a Boilerplate / Fork
+**Kubeflow** Mar 2022
+• fixed a bug that made CSRF cookie XSRF-TOKEN error from POST requests in Notebook, Volume, and Tensorboard
 
-_(deprecated, not recommended)_
+# **Projects**
 
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+**DBaaS(Database As a Service)**
 
-## Customising
+- Developed and architected DBaaS system to create PostgresSQL, MySQL, MongoDB on the Cloud using Kubernetes,
+Python, AngularJS, and docker
 
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
+**[EasySublet](https://github.com/BenzhaminKim/EasySublet)**
 
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
+- Built a web application for finding available sublets in the GTA
+- Tools used: React.js, Python, Django, S3, docker, Elasticsearch, Kibana, Jenkins
 
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+# **Certifications**
+
+- Certified Kubernetes Administrator(CKA) - Jul 2022
+
+# **Education**
+
+**Software Engineering Technology (Diploma)**
+
+Centennial College, Toronto, ON
+
+Sep 2018 - Dec 2020
