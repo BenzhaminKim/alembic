@@ -75,4 +75,4 @@ Python, AngularJS, and docker
 # **Education**
 
 **Software Engineering Technology (Diploma)**
-<p>Centennial College, Toronto, ON</p> <small>Sep 2018 - Dec 2020</small>
+<p>Centennial College, Toronto, ON &emsp; <small>Sep 2018 - Dec 2020</small></p>
