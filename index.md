@@ -3,13 +3,14 @@ title: About Younghwi Kim
 feature_text: |
   ## Younghwi Kim
   Experienced with designing software architectures and implementing RESTful API; Focused on code efficiency and clean code; Pride in writing testable and maintainable code;
-feature_image: "./assets/pic.jpg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+feature_image: "https://picsum.photos/1300/400?image=989"
+excerpt: "Experienced with designing software architectures and implementing RESTful API; Focused on code efficiency and clean code; Pride in writing testable and maintainable code;"
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+<img src="/assets/pic.jpb" alt="Younghwi Kim" style="height: 100px; width:100px;"/>
+Software Engineer
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+
 
 ## Features
 
