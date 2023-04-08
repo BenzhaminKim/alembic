@@ -55,10 +55,10 @@ ElasticSearch and Kibana
 
 # **Projects**
 
-**DBaaS(Database As a Service)**
+**[DBaaS(Database As a Service)](http://dbee-anywhere.com)**
 
-- Developed and architected DBaaS system to create PostgresSQL, MySQL, MongoDB on the Cloud using Kubernetes,
-Python, AngularJS, and docker
+- You can deploy popular databases such as PostgreSQL, MySQL, and MongoDB on the cloud, eliminating the need for physical hardware, software installation, or database configuration.
+I architected the system, implemented the backend using Kubernetes, PostgreSQL, Python, and utilized Helm and Docker.
 
 **[EasySublet](https://github.com/BenzhaminKim/EasySublet)**
 
